@@ -195,9 +195,11 @@ Thread 1 e Thread 2:
 **Resultados**
 
 DeadlockTrava.java
+
 <img width="1069" height="247" alt="image" src="https://github.com/user-attachments/assets/06de0217-4213-4492-9a56-526804693132" />
 
 DeadlockCorrigido.java
+
 <img width="526" height="271" alt="image" src="https://github.com/user-attachments/assets/fb9d4c63-d3c4-4201-adb7-51cf10465024" />
 
 
